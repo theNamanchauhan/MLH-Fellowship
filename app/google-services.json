@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "997156643505",
+    "firebase_url": "https://gams-7d602-default-rtdb.firebaseio.com",
+    "project_id": "gams-7d602",
+    "storage_bucket": "gams-7d602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997156643505:android:b0f70fa20394b461a6b890",
+        "android_client_info": {
+          "package_name": "com.example.gams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997156643505-gate7kjll1upp4982hao91u8rfchtlkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7DTAiQx23Ap249dQm3ndgJp7SFC9kG5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997156643505-gate7kjll1upp4982hao91u8rfchtlkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997156643505:android:3610a8e31865a87aa6b890",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997156643505-gate7kjll1upp4982hao91u8rfchtlkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7DTAiQx23Ap249dQm3ndgJp7SFC9kG5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997156643505-gate7kjll1upp4982hao91u8rfchtlkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997156643505:android:9c4615e4cb070136a6b890",
+        "android_client_info": {
+          "package_name": "com.example.ourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997156643505-gate7kjll1upp4982hao91u8rfchtlkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7DTAiQx23Ap249dQm3ndgJp7SFC9kG5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997156643505-gate7kjll1upp4982hao91u8rfchtlkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
